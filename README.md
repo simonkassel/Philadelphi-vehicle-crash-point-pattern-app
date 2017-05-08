@@ -2,6 +2,8 @@
 ## A point pattern analysis app for spatial analysis of Philadelphia's crash points
 ### by Simon Kassel
 
+[USE THE APP](https://simonkassel.github.io/)
+
 Created as a final project for CPLN692: Javascript and HTML Programming for Planning and Urban Management Applications at PennDesign. Instructors: *Jeff Frankl* and *Nathan Zimmerman*.
 
 Data Source: Pennsylvania Department of Transportation
